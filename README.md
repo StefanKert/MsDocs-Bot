@@ -1,1 +1,3 @@
-# MsDocs-Bot
+# msdocs-bot
+
+Coming soon: Awesomeness
